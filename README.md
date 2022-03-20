@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **peyrat.clement@gmail.com**
 
-- 🖥️ I'm currently working on a Pokedex website.
+- 🖥️ I'm currently working on a Pokedex website and a Note taking website.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
