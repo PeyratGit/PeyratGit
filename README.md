@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <h3 align="center">A new fullstack developer</h3>
 
-- 🌱 I’m currently learning **Javascript and Solidity**
+- 🌱 I’m currently learning **React, Javascript and Solidity**
+
+- 🖥️ I'm also working on my **portfolio** and a website for a friend.
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/peyratclement](https://troopl.com/peyratclement)
 
