@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React, Javascript and Solidity**
 
-- 🖥️ I'm also working on my **portfolio** and a website for a craftsman.
-
 - 👨‍💻 All of my projects are available at [https://troopl.com/peyratclement](https://troopl.com/peyratclement)
 
 - 📫 How to reach me **peyrat.clement@gmail.com**
