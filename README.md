@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Javascript and Solidity**
 
-- 👨‍💻 All of my projects are available at [https://www.clementpeyrat.com](https://www.clementpeyrat.com)
+- 👨‍💻 All of my projects are available at <a href="https://www.clementpeyrat.com" target="_blank">https://www.clementpeyrat.com</a>
 
 - 📫 How to reach me **peyrat.clement@gmail.com**
 
