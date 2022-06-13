@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <h3 align="center">A new fullstack developer</h3>
 
-- 🌱 I’m currently learning **React and Javascript
+- 🌱 I’m currently learning **React and Javascript**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.clementpeyrat.com" target="_blank">https://www.clementpeyrat.com</a>
 
